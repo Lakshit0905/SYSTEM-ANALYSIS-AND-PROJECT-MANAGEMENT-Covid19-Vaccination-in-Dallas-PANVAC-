@@ -1,4 +1,4 @@
-# SYSTEM-ANALYSIS-AND-PROJECT-MANAGEMENT-Covid19-Vaccination-in-Dallas-PANVAC
+# SYSTEM ANALYSIS AND PROJECT MANAGEMENT Covid19 Vaccination in Dallas PANVAC
 
 
 Subject: Development of the Integrated Registration of Covid-19 vaccine in the city of Dallas
